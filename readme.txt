@@ -40,3 +40,7 @@ You can check [rtPanel hooks documentation here](http://rtpanel.com/docs/develop
 = 1.0 =
 
 Initial release.
+
+= 1.0.1 =
+
+Escaping of textarea issue solved.
